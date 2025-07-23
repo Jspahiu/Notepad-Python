@@ -1,10 +1,14 @@
-# Notepad Python
+# Notepad Python v2.0.0
 
 ![Screenshot](README_IMAGES/image1.png)
 
 ## Overview
 
 Notepad Python is a basic, free, lightweight notepad desktop application made entirely in Python. It offers a familiar interface for creating, editing, and managing plain text files, inspired by the simplicity of classic notepad apps found on Windows.
+
+## Update
+
+Update includes styling while editing your file with options of changing font sizes, font colors, and even font styles!
 
 ## Features
 
@@ -36,18 +40,18 @@ Above: The main window of Notepad Python, showing the intuitive menu and writing
      
    ```bash
 
-   cd Notepad-Python/Notepad Python Versions/v x.x.x/
-   python main_vX.py
+   cd Notepad-Python/Notepad Python v2.0.0
+   python main_v2.py
    ```
 
    **-------- For Running Notepad Python on .exe file (WINDOWS ONLY) --------**
 
    ```bash
 
-   cd Notepad-Python/Notepad Python .exe/vX
+   cd Notepad-Python/Notepad Python .exe/v2.0.0
    
    ```
-   Run the .exe file that is in there!
+   Run the .exe file named "Notepad Python v2.exe"
 
 ## Usage
 
@@ -69,4 +73,4 @@ If you are in the Hack Club, feel free to vote for this project for support of f
 
 ---
 
-Enjoy using Notepad Python!
+Enjoy using Notepad Python v2.0.0!
