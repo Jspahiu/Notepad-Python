@@ -1,6 +1,12 @@
 # Notepad Python
 
-![Screenshot](README_IMAGES/image1.png)
+![Screenshot](README_IMAGES/image2.png)
+
+## Links
+**Github Latest Release (v3.0.0):** [https://github.com/Jspahiu/Notepad-Python/tree/v3.0.0](https://github.com/Jspahiu/Notepad-Python/tree/v3.0.0)
+
+**Hack Club Summer of Making Link**: [https://summer.hackclub.com/projects/7469](https://summer.hackclub.com/projects/7469)
+
 
 ## Overview
 
@@ -10,12 +16,13 @@ Notepad Python is a basic, free, lightweight notepad desktop application made en
 
 - **Create, Open, Save, Delete Notes:** Easily manage your text files using the menu options at the top ("Create", "Open", "Save", "Delete").
 - **Simple Styling:** Changing font sizes, font styles, and font colors.
+- **Tabs:** Which can be useful for having multiple files at once!
 - **Clean User Interface:** Large, uncluttered writing area—perfect for quick notes and focused editing.
 - **Distraction-Free:** Only the essential features you expect from a notepad app.
 
 ## Screenshot
 
-![Notepad Python Screenshot](README_IMAGES/image1.png)
+![Notepad Python Screenshot](README_IMAGES/image2.png)
 
 Above: The main window of Notepad Python, showing the intuitive menu and writing area.
 
