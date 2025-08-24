@@ -28,7 +28,7 @@ Above: The main window of Notepad Python, showing the intuitive menu and writing
 
 ## Getting Started
 
-## For v1.0.0 and v2.0.0 ##
+## For v1.0.0, v2.0.0, v3.0.0 (MAIN BRANCH ONLY) ##
 
 1. **Clone the Repository**
    ```bash
@@ -58,7 +58,7 @@ Above: The main window of Notepad Python, showing the intuitive menu and writing
    ```
    Run the .exe file that is in there!
 
-## For v3.0.0 only ##
+## For v3.0.0 (TAG ONLY) only ##
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Jspahiu/Notepad-Python.git
