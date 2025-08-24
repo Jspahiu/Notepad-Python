@@ -43,15 +43,15 @@ Above: The main window of Notepad Python, showing the intuitive menu and writing
      
    ```bash
 
-   cd Notepad-Python/Notepad Python Versions/v x.x.x/
-   python main_vX.py
+   cd Notepad-Python/Notepad Python Version v3.0.0
+   python main_v3.py
    ```
 
    **-------- For Running Notepad Python on .exe file (WINDOWS ONLY) --------**
 
    ```bash
 
-   cd Notepad-Python/Notepad Python .exe/vX
+   cd Notepad-Python/Notepad Python v3.0.0 .exe
    
    ```
    Run the .exe file that is in there!
