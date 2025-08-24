@@ -28,6 +28,8 @@ Above: The main window of Notepad Python, showing the intuitive menu and writing
 
 ## Getting Started
 
+## For v1.0.0 and v2.0.0 ##
+
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Jspahiu/Notepad-Python.git
@@ -55,6 +57,36 @@ Above: The main window of Notepad Python, showing the intuitive menu and writing
    
    ```
    Run the .exe file that is in there!
+
+## For v3.0.0 only ##
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Jspahiu/Notepad-Python.git
+   ```
+   
+2. **Run the Application**
+
+   **-------- For Running Python File Itself --------**
+   - Make sure you have Python installed (the app uses `tkinter`, which is included in standard Python distributions).
+   - Make sure you enter the correct version for the path to the files
+  
+   
+     
+   ```bash
+
+   cd Notepad-Python/Notepad Python Version v3.0.0
+   python main_v3.py
+   ```
+
+   **-------- For Running Notepad Python on .exe file (WINDOWS ONLY) --------**
+
+   ```bash
+
+   cd Notepad-Python/Notepad Python v3.0.0 .exe
+   
+   ```
+   Run the .exe file that is in there!
+
 
 ## Usage
 
